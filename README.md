@@ -34,6 +34,6 @@
 
 *(توصیه: یک یا دو عکس از داشبورد پروژه خود بگیرید و در پوشه آپلود کنید، سپس مسیر آن‌ها را اینجا قرار دهید)*
 
-![داشبورد پرتفولیوپلاس](assets/img/your-dashboard-screenshot.png)
+![داشبورد پرتفولیوپلاس](https://raw.githubusercontent.com/sibche2013/PortfolioPlus/refs/heads/main/Slider-Pic.png)
 
 ---
